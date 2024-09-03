@@ -2,7 +2,7 @@ package s3
 
 import (
 	"github.com/aws/aws-sdk-go-v2/service/s3"
-	"github.com/opensaucerer/bifrost/shared/types"
+	"github.com/funmi4194/bifrost/shared/types"
 )
 
 // SimpleStorageService is the S3 struct

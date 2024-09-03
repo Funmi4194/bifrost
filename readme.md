@@ -175,7 +175,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/opensaucerer/bifrost"
+	"github.com/funmi4194/bifrost"
 )
 
 // mount a bridge to gcs
@@ -235,7 +235,7 @@ The above example clearly demonstrates the speed, simplicity, and ease of use th
 To install the Bifrost package, run the following command in your terminal:
 
 ```bash
-go get github.com/opensaucerer/bifrost
+go get github.com/funmi4194/bifrost
 ```
 
 # Usage
@@ -268,7 +268,7 @@ See [changelog](./changelog.md) for more details.
 
 # Contributors
 
-<a href="https://github.com/opensaucerer/bifrost/graphs/contributors">
+<a href="https://github.com/funmi4194/bifrost/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=opensaucerer/bifrost" />
 </a>
 

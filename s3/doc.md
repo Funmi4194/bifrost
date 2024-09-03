@@ -39,7 +39,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/opensaucerer/bifrost"
+	"github.com/funmi4194/bifrost"
 )
 
 func main() {
@@ -141,4 +141,4 @@ for _, file := range uploadedFiles {
 - [Setting up S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)
 - [Setting up AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
 
-We hope you found this guide helpful in using Bifrost with Amazon S3. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/opensaucerer/bifrost/issues)!
+We hope you found this guide helpful in using Bifrost with Amazon S3. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/funmi4194/bifrost/issues)!

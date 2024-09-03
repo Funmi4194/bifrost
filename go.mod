@@ -1,4 +1,4 @@
-module github.com/opensaucerer/bifrost
+module github.com/funmi4194/bifrost
 
 go 1.18
 

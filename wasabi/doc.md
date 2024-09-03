@@ -38,7 +38,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/opensaucerer/bifrost"
+	"github.com/funmi4194/bifrost"
 )
 
 func main() {
@@ -138,4 +138,4 @@ for _, file := range uploadedFiles {
 
 - [Wasabi Cloud Storage Documentation](https://docs.wasabi.com/)
 
-We hope you found this guide helpful in using Bifrost with Wasabi Cloud Storage. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/opensaucerer/bifrost/issues)!
+We hope you found this guide helpful in using Bifrost with Wasabi Cloud Storage. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/funmi4194/bifrost/issues)!

@@ -25,7 +25,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/opensaucerer/bifrost"
+	"github.com/funmi4194/bifrost"
 )
 // mount a bridge to Pinata
 pinataBridge, _ := bifrost.NewRainbowBridge(&bifrost.BridgeConfig{
@@ -130,4 +130,4 @@ for _, file := range uploadedFiles {
 - [What is decentralized storage](https://www.enterprisenetworkingplanet.com/data-center/decentralized-data-storage)
 - [What is IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs)
 
-We hope this guide has been helpful in using Bifrost with Pinata Cloud. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/opensaucerer/bifrost/issues)!
+We hope this guide has been helpful in using Bifrost with Pinata Cloud. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/funmi4194/bifrost/issues)!

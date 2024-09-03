@@ -41,7 +41,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/opensaucerer/bifrost"
+	"github.com/funmi4194/bifrost"
 )
 
 func main() {
@@ -156,4 +156,4 @@ for _, file := range uploadedFiles {
 - [Setting up GCS](https://cloud.google.com/storage/docs/creating-buckets)
 - [Setting up gcloud CLI](https://cloud.google.com/sdk/docs/install)
 
-We hope you found this guide helpful in using Bifrost with GCS. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/opensaucerer/bifrost/issues)!
+We hope you found this guide helpful in using Bifrost with GCS. If you have any questions or feedback, please don't hesitate to open an [issue](https://github.com/funmi4194/bifrost/issues)!

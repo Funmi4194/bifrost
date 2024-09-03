@@ -2,7 +2,7 @@ package gcs
 
 import (
 	"cloud.google.com/go/storage"
-	"github.com/opensaucerer/bifrost/shared/types"
+	"github.com/funmi4194/bifrost/shared/types"
 )
 
 // GoogleCloudStorage is the Google Cloud Storage struct

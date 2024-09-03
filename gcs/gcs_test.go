@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/opensaucerer/bifrost"
+	"github.com/funmi4194/bifrost"
 )
 
 var (

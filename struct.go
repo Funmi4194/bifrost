@@ -1,6 +1,6 @@
 package bifrost
 
-import "github.com/opensaucerer/bifrost/shared/types"
+import "github.com/funmi4194/bifrost/shared/types"
 
 /*
 At a point, you might wonder why we have some structs and constants duplicated in the root package and in the subpackages.
@@ -46,9 +46,9 @@ type RainbowBridge interface {
 	*/
 	UploadFolder(foldFace interface{}) ([]*types.UploadedFile, error)
 	/*
-	DeleteFile deletes a file from a bucket in provider's storage and returns an error if one occurs.
+		DeleteFile deletes a file from a bucket in provider's storage and returns an error if one occurs.
 
-	Note: DeleteFile requires that a default bucket be set in bifrost.BridgeConfig.
+		Note: DeleteFile requires that a default bucket be set in bifrost.BridgeConfig.
 	*/
 	DeleteFile(fileFace interface{}) error
 }

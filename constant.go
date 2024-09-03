@@ -1,6 +1,6 @@
 package bifrost
 
-import "github.com/opensaucerer/bifrost/shared/types"
+import "github.com/funmi4194/bifrost/shared/types"
 
 /*
 At a point, you might wonder why we have some structs and constants duplicated in the root package and in the subpackages.

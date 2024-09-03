@@ -6,8 +6,8 @@ import (
 	"mime/multipart"
 	"os"
 
-	"github.com/opensaucerer/bifrost/shared/config"
-	"github.com/opensaucerer/bifrost/shared/types"
+	"github.com/funmi4194/bifrost/shared/config"
+	"github.com/funmi4194/bifrost/shared/types"
 )
 
 func (c *Client) PostForm(url string, params types.Param) ([]byte, error) {

@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/opensaucerer/bifrost/shared/config"
-	"github.com/opensaucerer/bifrost/shared/errors"
-	"github.com/opensaucerer/bifrost/shared/types"
+	"github.com/funmi4194/bifrost/shared/config"
+	"github.com/funmi4194/bifrost/shared/errors"
+	"github.com/funmi4194/bifrost/shared/types"
 )
 
 /*

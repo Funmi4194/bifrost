@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/opensaucerer/bifrost/shared/config"
+	"github.com/funmi4194/bifrost/shared/config"
 )
 
 // NewClient returns a new client for making requests

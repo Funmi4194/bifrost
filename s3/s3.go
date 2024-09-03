@@ -12,9 +12,9 @@ import (
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/service/s3"
 	awsTypes "github.com/aws/aws-sdk-go-v2/service/s3/types"
-	"github.com/opensaucerer/bifrost/shared/config"
-	"github.com/opensaucerer/bifrost/shared/errors"
-	"github.com/opensaucerer/bifrost/shared/types"
+	"github.com/funmi4194/bifrost/shared/config"
+	"github.com/funmi4194/bifrost/shared/errors"
+	"github.com/funmi4194/bifrost/shared/types"
 )
 
 /*
